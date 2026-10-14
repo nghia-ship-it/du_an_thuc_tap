@@ -1,4 +1,4 @@
-# 📘 NHẬT KÝ THỰC TẬP & KẾ HOẠCH CHI TIẾT (REACT DEVELOPER)
+#  NHẬT KÝ THỰC TẬP & KẾ HOẠCH CHI TIẾT (REACT DEVELOPER)
 > **Dự án:** Hệ thống Quản lý Sản phẩm (Product Management Dashboard & To-Do List)  
 > **Lộ trình:** Giai đoạn 2 — Thực hành bài tập (Tuần 4 – Tuần 7)  
 > **Vị trí thư mục:** `c:\Users\Admin\OneDrive\Máy tính\thực tập`  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 TỔNG QUAN TIẾN ĐỘ
+##  TỔNG QUAN TIẾN ĐỘ
 
 ```mermaid
 flowchart LR
@@ -24,7 +24,7 @@ flowchart LR
 
 ---
 
-## 🏆 KẾT QUẢ ĐÃ ĐẠT ĐƯỢC Ở TUẦN 4
+##  KẾT QUẢ ĐÃ ĐẠT ĐƯỢC Ở TUẦN 4
 
 ### 1. Công nghệ & Thư viện đã cài đặt
 - **Core:** React 19 (`react`, `react-dom`), TypeScript 6, Vite 8
@@ -62,9 +62,9 @@ flowchart LR
 
 ---
 
-## 🎯 KẾ HOẠCH HÀNH ĐỘNG CHI TIẾT CÁC TUẦN TIẾP THEO
+##  KẾ HOẠCH HÀNH ĐỘNG CHI TIẾT CÁC TUẦN TIẾP THEO
 
-### 📍 BƯỚC TIẾP THEO: TUẦN 5 — THỰC HÀNH ROUTER & API
+###  BƯỚC TIẾP THEO: TUẦN 5 — THỰC HÀNH ROUTER & API
 
 #### 1. Mục tiêu cần đạt theo giáo trình:
 - Thiết lập hệ thống routing nhiều cấp (Nested Route), truyền nhận tham số qua URL (`/products/:id`, `?page=1&category=...`).
@@ -96,7 +96,7 @@ flowchart LR
 
 ---
 
-### 📍 TUẦN 6 — AUTHENTICATION, TANSTACK QUERY & KIẾN TRÚC DOANH NGHIỆP
+###  TUẦN 6 — AUTHENTICATION, TANSTACK QUERY & KIẾN TRÚC DOANH NGHIỆP
 
 #### 1. Mục tiêu cần đạt:
 - Chức năng Đăng nhập / Đăng xuất, lưu và kiểm tra token an toàn.
@@ -121,7 +121,7 @@ flowchart LR
 
 ---
 
-### 📍 TUẦN 7 — TỐI ƯU HIỆU NĂNG, KIỂM THỬ, DOCKER & TRIỂN KHAI PRODUCTION
+###  TUẦN 7 — TỐI ƯU HIỆU NĂNG, KIỂM THỬ, DOCKER & TRIỂN KHAI PRODUCTION
 
 #### 1. Mục tiêu cần đạt:
 - Tối ưu hiệu năng ứng dụng: Đo lường re-render bằng **React DevTools Profiler**, áp dụng `React.memo`, `useMemo`, `useCallback` đúng chỗ.
@@ -145,11 +145,3 @@ flowchart LR
 - [ ] Deploy dự án lên Vercel / Netlify và kiểm tra đường link live.
 
 ---
-
-## 💡 HƯỚNG DẪN KHI BẮT ĐẦU PHIÊN LÀM VIỆC TIẾP THEO
-
-Khi bạn mở một phiên trò chuyện mới với tôi, bạn chỉ cần gõ:
-
-> **"Hãy đọc file thuc_tap.md và bắt đầu làm tiếp Tuần 5 cho tôi."**
-
-Tôi sẽ tự động đọc lại file này, nắm trọn toàn bộ ngữ cảnh và triển khai ngay lập tức các đầu việc của Tuần 5 mà không cần bạn phải giải thích lại!
